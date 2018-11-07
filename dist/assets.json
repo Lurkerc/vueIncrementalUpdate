@@ -1,0 +1,43 @@
+{
+    "publicPath": "/",
+    "entryScripts": [
+        "static/js/manifest.ac71e766f1a63989f3ad.js",
+        "static/js/vendor.1ef4d8a35c5e0f1828b5.js",
+        "static/js/tool.a36dfcca82e9f36fa153.js",
+        "static/js/ui.a18e78a589f5c5921bab.js",
+        "static/js/vue.94c08456a151c3f897e3.js",
+        "static/js/app.d64966e5fa4466af6bb7.js",
+        "static/js/elementUI.f663d481cf674584d58a.js"
+    ],
+    "entryStyles": [
+        "static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css",
+        "static/css/elementUI.518fd40ad77a40e681e54c3e55b5c8aa.css"
+    ],
+    "asyncChunks": {
+        "two": {
+            "id": 0,
+            "size": 3628,
+            "chunkName": "two",
+            "hash": "2326f8b60d92e33a1daa",
+            "src": "./src/page/two/two1.vue",
+            "file": "static/js/two.2326f8b60d92e33a1daa.js"
+        },
+        "one": {
+            "id": 1,
+            "size": 3719,
+            "chunkName": "one",
+            "hash": "2c6fb54b34ef75003185",
+            "src": "./src/page/two/two1.vue",
+            "file": "static/js/one.2c6fb54b34ef75003185.js"
+        },
+        "helloWorld": {
+            "id": 2,
+            "size": 2191,
+            "chunkName": "helloWorld",
+            "hash": "2273d617f39fccda6b33",
+            "src": "./src/components/HelloWorld.vue",
+            "file": "static/js/helloWorld.2273d617f39fccda6b33.js"
+        }
+    },
+    "assets": []
+}

@@ -1,0 +1,24 @@
+{
+    "publicPath": "/",
+    "entryScripts": [
+        "static/js/manifest.ac71e766f1a63989f3ad.js",
+        "static/js/vendor.48aafe154145cc2c6e99.js",
+        "static/js/app.1b7a76a74a3d747c9efa.js",
+        "static/js/elementUI.ddf0fffb3fd710791ae1.js"
+    ],
+    "entryStyles": [
+        "static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css",
+        "static/css/elementUI.518fd40ad77a40e681e54c3e55b5c8aa.css"
+    ],
+    "asyncChunks": {
+        "one": {
+            "id": 0,
+            "size": 6610,
+            "chunkName": "one",
+            "hash": "2c6fb54b34ef75003185",
+            "src": "./src/page/one/one.vue",
+            "file": "static/js/one.2c6fb54b34ef75003185.js"
+        }
+    },
+    "assets": []
+}

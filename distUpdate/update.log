@@ -1,0 +1,62 @@
+[2018-09-17T14:41:08.162] [INFO] update - -------------开始获取配置信息-----------------
+[2018-09-17T14:41:08.168] [INFO] update - replace chunk id err: false, chunkName: one, newId: 0, oldId: 1, msg: none
+[2018-09-17T14:41:08.170] [INFO] update - write chunk id err: false, chunkName: one, newId: 0, oldId: 1, msg: none
+[2018-09-17T14:41:08.175] [INFO] update - copy chunk err: false: F:\try\pros\distUpdate/static/js/one.2c6fb54b34ef75003185.js --> F:\try\pros\dist/static/js/one.2c6fb54b34ef75003185.js , msg: none
+[2018-09-17T14:41:08.182] [INFO] update - copy manifest err: false: F:\try\pros\dist/static/js/manifest.ac71e766f1a63989f3ad.js --> F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js , msg: none
+[2018-09-17T14:41:08.182] [INFO] update - read manifest err: false, msg: none
+[2018-09-17T14:41:08.182] [INFO] update - replace manifest err: false, 2c6fb54b34ef75003185 --> 2c6fb54b34ef75003185 , msg: none
+[2018-09-17T14:41:08.184] [INFO] update - write manifest err: false: F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js, msg: none
+[2018-09-17T14:41:08.188] [INFO] update - copy manifest err: false: F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js --> F:\try\pros\dist/static/js/manifest.ac71e766f1a63989f3ad.js , msg: none
+[2018-09-17T14:41:08.190] [INFO] update - copy index err: false: F:\try\pros\dist\index.html --> F:\try\pros\distUpdate\index.html , msg: none
+[2018-09-17T14:41:08.194] [INFO] update - copy css err: false: F:\try\pros\distUpdate/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css --> F:\try\pros\dist/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css , msg: none
+[2018-09-17T14:41:08.195] [INFO] update - read index err: false, msg: none
+[2018-09-17T14:41:08.195] [INFO] update - replace index err: false, static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css --> static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css , msg: none
+[2018-09-17T14:41:08.195] [INFO] update - replace index err: false, static/js/manifest.ac71e766f1a63989f3ad.js --> static/js/manifest.ac71e766f1a63989f3ad.js , msg: none
+[2018-09-17T14:41:08.197] [INFO] update - write index err: false: F:\try\pros\distUpdate\index.html, msg: none
+[2018-09-17T14:41:08.199] [INFO] update - copy index err: false: F:\try\pros\distUpdate\index.html --> F:\try\pros\dist\index.html , msg: none
+[2018-09-17T14:41:08.200] [INFO] update - read assets err: false, msg: none
+[2018-09-17T14:41:08.201] [INFO] update - replace assets err: false, static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css --> static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css , msg: none
+[2018-09-17T14:41:08.201] [INFO] update - replace assets err: false, static/js/manifest.ac71e766f1a63989f3ad.js --> static/js/manifest.ac71e766f1a63989f3ad.js , msg: none
+[2018-09-17T14:41:08.201] [INFO] update - replace assets err: false, 2c6fb54b34ef75003185 --> 2c6fb54b34ef75003185 , msg: none
+[2018-09-17T14:41:08.202] [INFO] update - write assets err: false: F:\try\pros\dist\assets.json, msg: none
+[2018-09-17T14:41:08.203] [INFO] update - delete file err false: F:\try\pros\distUpdate/static/js/app.596a24ee2a3e7dcb687b.js , msg: none
+[2018-09-17T14:41:08.203] [INFO] update - delete file err false: F:\try\pros\distUpdate/static/css/elementUI.518fd40ad77a40e681e54c3e55b5c8aa.css , msg: none
+[2018-09-17T14:41:08.203] [INFO] update - delete file err false: F:\try\pros\distUpdate/static/js/vendor.48aafe154145cc2c6e99.js , msg: none
+[2018-09-17T14:41:08.203] [INFO] update - delete file err false: F:\try\pros\distUpdate/static/js/elementUI.ddf0fffb3fd710791ae1.js , msg: none
+[2018-09-17T14:41:08.203] [INFO] update - gzip file err false: F:\try\pros\distUpdate/static/js/one.2c6fb54b34ef75003185.js --> F:\try\pros\distUpdate/static/js/one.2c6fb54b34ef75003185.js.gz, msg: none
+[2018-09-17T14:41:08.205] [INFO] update - gzip file err false: F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js --> F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js.gz, msg: none
+[2018-09-17T14:41:08.206] [INFO] update - gzip file err false: F:\try\pros\distUpdate/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css --> F:\try\pros\distUpdate/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css.gz, msg: none
+[2018-09-17T14:41:08.210] [INFO] update - copy gzip err: false: F:\try\pros\distUpdate/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css.gz --> F:\try\pros\dist/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css.gz , msg: none
+[2018-09-17T14:41:08.210] [INFO] update - copy gzip err: false: F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js.gz --> F:\try\pros\dist/static/js/manifest.ac71e766f1a63989f3ad.js.gz , msg: none
+[2018-09-17T14:41:08.210] [INFO] update - copy gzip err: false: F:\try\pros\distUpdate/static/js/one.2c6fb54b34ef75003185.js.gz --> F:\try\pros\dist/static/js/one.2c6fb54b34ef75003185.js.gz , msg: none
+[2018-09-17T14:43:35.904] [INFO] update - -------------开始获取配置信息-----------------
+[2018-09-17T14:43:35.909] [INFO] update - replace chunk id err: false, chunkName: one, newId: 0, oldId: 1, msg: none
+[2018-09-17T14:43:35.911] [INFO] update - write chunk id err: false, chunkName: one, newId: 0, oldId: 1, msg: none
+[2018-09-17T14:43:35.913] [INFO] update - copy chunk err: false: F:\try\pros\distUpdate/static/js/one.2c6fb54b34ef75003185.js --> F:\try\pros\dist/static/js/one.2c6fb54b34ef75003185.js , msg: none
+[2018-09-17T14:43:35.917] [INFO] update - copy manifest err: false: F:\try\pros\dist/static/js/manifest.ac71e766f1a63989f3ad.js --> F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js , msg: none
+[2018-09-17T14:43:35.917] [INFO] update - read manifest err: false, msg: none
+[2018-09-17T14:43:35.917] [INFO] update - replace manifest err: false, 2c6fb54b34ef75003185 --> 2c6fb54b34ef75003185 , msg: none
+[2018-09-17T14:43:35.920] [INFO] update - write manifest err: false: F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js, msg: none
+[2018-09-17T14:43:35.922] [INFO] update - copy manifest err: false: F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js --> F:\try\pros\dist/static/js/manifest.ac71e766f1a63989f3ad.js , msg: none
+[2018-09-17T14:43:35.924] [INFO] update - copy index err: false: F:\try\pros\dist\index.html --> F:\try\pros\distUpdate\index.html , msg: none
+[2018-09-17T14:43:35.926] [INFO] update - copy css err: false: F:\try\pros\distUpdate/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css --> F:\try\pros\dist/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css , msg: none
+[2018-09-17T14:43:35.926] [INFO] update - read index err: false, msg: none
+[2018-09-17T14:43:35.927] [INFO] update - replace index err: false, static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css --> static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css , msg: none
+[2018-09-17T14:43:35.927] [INFO] update - replace index err: false, static/js/manifest.ac71e766f1a63989f3ad.js --> static/js/manifest.ac71e766f1a63989f3ad.js , msg: none
+[2018-09-17T14:43:35.928] [INFO] update - write index err: false: F:\try\pros\distUpdate\index.html, msg: none
+[2018-09-17T14:43:35.930] [INFO] update - copy index err: false: F:\try\pros\distUpdate\index.html --> F:\try\pros\dist\index.html , msg: none
+[2018-09-17T14:43:35.933] [INFO] update - read assets err: false, msg: none
+[2018-09-17T14:43:35.933] [INFO] update - replace assets err: false, static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css --> static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css , msg: none
+[2018-09-17T14:43:35.933] [INFO] update - replace assets err: false, static/js/manifest.ac71e766f1a63989f3ad.js --> static/js/manifest.ac71e766f1a63989f3ad.js , msg: none
+[2018-09-17T14:43:35.933] [INFO] update - replace assets err: false, 2c6fb54b34ef75003185 --> 2c6fb54b34ef75003185 , msg: none
+[2018-09-17T14:43:35.935] [INFO] update - write assets err: false: F:\try\pros\dist\assets.json, msg: none
+[2018-09-17T14:43:35.936] [INFO] update - delete file err false: F:\try\pros\distUpdate/static/js/vendor.48aafe154145cc2c6e99.js , msg: none
+[2018-09-17T14:43:35.936] [INFO] update - delete file err false: F:\try\pros\distUpdate/static/css/elementUI.518fd40ad77a40e681e54c3e55b5c8aa.css , msg: none
+[2018-09-17T14:43:35.937] [INFO] update - delete file err false: F:\try\pros\distUpdate/static/js/app.1b7a76a74a3d747c9efa.js , msg: none
+[2018-09-17T14:43:35.937] [INFO] update - delete file err false: F:\try\pros\distUpdate/static/js/elementUI.ddf0fffb3fd710791ae1.js , msg: none
+[2018-09-17T14:43:35.937] [INFO] update - gzip file err false: F:\try\pros\distUpdate/static/js/one.2c6fb54b34ef75003185.js --> F:\try\pros\distUpdate/static/js/one.2c6fb54b34ef75003185.js.gz, msg: none
+[2018-09-17T14:43:35.938] [INFO] update - gzip file err false: F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js --> F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js.gz, msg: none
+[2018-09-17T14:43:35.939] [INFO] update - gzip file err false: F:\try\pros\distUpdate/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css --> F:\try\pros\distUpdate/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css.gz, msg: none
+[2018-09-17T14:43:35.943] [INFO] update - copy gzip err: false: F:\try\pros\distUpdate/static/js/one.2c6fb54b34ef75003185.js.gz --> F:\try\pros\dist/static/js/one.2c6fb54b34ef75003185.js.gz , msg: none
+[2018-09-17T14:43:35.944] [INFO] update - copy gzip err: false: F:\try\pros\distUpdate/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css.gz --> F:\try\pros\dist/static/css/app.39107c3e2a44e0b5c8c037ee37f25dda.css.gz , msg: none
+[2018-09-17T14:43:35.944] [INFO] update - copy gzip err: false: F:\try\pros\distUpdate/static/js/manifest.ac71e766f1a63989f3ad.js.gz --> F:\try\pros\dist/static/js/manifest.ac71e766f1a63989f3ad.js.gz , msg: none
